@@ -168,67 +168,67 @@ const questions = [
     "id": 15,
     "question": "Determine algebraically the zeros of f(x) = 3x³ + 21x² + 36x.",
     "type": "short_text",
-    "correct_answer": ["0", "-4", "-3"]
+    "correct_answer": ["-4", "-3", "0"]
   },
   {
     "id": 16,
     "question": "Solve the equation 2x³ − x² − 8x + 4 = 0 algebraically for all values of x.",
     "type": "short_text",
-    "correct_answer": ["2", "-2", "1/2", "0.5"]
+    "correct_answer": ["-2", "2", "1/2", "0.5"]
   },
   {
     "id": 17,
     "question": "Algebraically determine the zeros of the function: r(x) = 3x³ + 12x² − 3x − 12.",
     "type": "short_text",
-    "correct_answer": ["1", "-1", "-4"]
+    "correct_answer": ["-4", "-1", "1"]
   },
   {
     "id": 18,
     "question": "Solve the equation 8x³ + 4x² − 18x − 9 = 0 algebraically for all values of x.",
     "type": "short_text",
-    "correct_answer": ["-1/2", "-0.5", "3/2", "1.5", "-3/2", "-1.5"]
+    "correct_answer": ["-3/2", "-1.5", "-1/2", "-0.5", "3/2", "1.5"]
   },
   {
     "id": 19,
     "question": "Solve x³ + 5x² = 4x + 20 algebraically.",
     "type": "short_text",
-    "correct_answer": ["-5", "2", "-2"]
+    "correct_answer": ["-5", "-2", "2"]
   },
   {
     "id": 20,
     "question": "Solve algebraically for all values of x: x⁴ + 4x³ + 4x² = −16x.",
     "type": "short_text",
-    "correct_answer": ["0", "-4", "2i", "-2i"]
+    "correct_answer": ["-4", "0", "-2i", "2i"]
   },
   {
     "id": 21,
     "question": "Solve, giving 4 roots, x⁴ − 13x² + 36 = 0.",
     "type": "short_text",
-    "correct_answer": ["2", "-2", "3", "-3"]
+    "correct_answer": ["-2", "2", "-3", "3"]
   },
   {
     "id": 22,
     "question": "Solve: x⁴ − 3x² = 4 (Find 4 roots.)",
     "type": "short_text",
-    "correct_answer": ["2", "-2", "i", "-i"]
+    "correct_answer": ["-2", "2", "-i", "i"]
   },
   {
     "id": 23,
     "question": "Solve: x⁴ + 4x² = 32. Find 4 roots.",
     "type": "short_text",
-    "correct_answer": ["2", "-2", "2i", "-2i"]
+    "correct_answer": ["-2", "2", "-2i", "2i"]
   },
   {
     "id": 24,
     "question": "Find four roots of the following equation: 2x⁴ + 5x² = 207",
     "type": "short_text",
-    "correct_answer": ["3", "-3"]
+    "correct_answer": ["-3", "3"]
   },
   {
     "id": 25,
     "question": "Given z(x) = 6x³ + bx² − 52x + 15, z(2) = 35, and z(−5) = 0, algebraically determine all the zeros of z(x).",
     "type": "short_text",
-    "correct_answer": ["-5", "3/2", "1.5", "1/3"]
+    "correct_answer": ["-5", "1/3", "3/2", "1.5"]
   },
   {
     "id": 26,
